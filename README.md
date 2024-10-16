@@ -29,6 +29,7 @@ Use GitHub repositories to document everything. \o/
 - [Junwei Zhao](https://github.com/wahyd4/knowledge-mind-mapping)
 - [Kamil Ronewicz](https://github.com/galileo/knowledge)
 - [Kirill Gorbachyonok](https://github.com/japanese-goblinn/knowledge-base)
+- [levelsi](https://lev.lc/site/)
 - [Manassarn Manoonchai](https://github.com/narze/knowledge)
 - [Marc Loupias](http://memo-dev.marc-loupias.fr/) [\(Source on GitHub\)](https://github.com/MarcLoupias/memo-dev)
 - [Marshall Bowers](https://github.com/maxdeviant/knowledge)
